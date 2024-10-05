@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T3", "T3\T3.csproj", "{059A580C-26F2-4ECE-A784-24FF19DA7612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyThreadPoolTest", "MyThreadPoolTest\MyThreadPoolTest.csproj", "{EC761DB1-2747-4514-A5E4-5E9191846529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059A580C-26F2-4ECE-A784-24FF19DA7612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059A580C-26F2-4ECE-A784-24FF19DA7612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059A580C-26F2-4ECE-A784-24FF19DA7612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059A580C-26F2-4ECE-A784-24FF19DA7612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC761DB1-2747-4514-A5E4-5E9191846529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC761DB1-2747-4514-A5E4-5E9191846529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC761DB1-2747-4514-A5E4-5E9191846529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC761DB1-2747-4514-A5E4-5E9191846529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EA0BB4-8B23-436D-8B43-7C57091F050B}
+	EndGlobalSection
+EndGlobal
